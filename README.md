@@ -19,7 +19,7 @@ ___
 ## Weekly Activities
 
 ### Week 01
-**Thinking about ...**
+#### Thinking about ...
 * **What is Life? How would you define it, can you actually define it?**
 
 What is "life?" Through discussions with members on last Thursday, several important elements were identified.
@@ -44,6 +44,15 @@ And I believe that this can lead to more exciting insights that can be shared an
 
 
 * **Why are you interested in Bio?**
+
+One reason is that I (as a human being) am itself a "bio" being, which is (I believe) an unshakable fact.
+When "I" think about "I," I cannot ignore my own biological nature and human beings as creatures outside of rational thinking such as consciousness and judgment.
+This is connected to the sense of biophilia and biophobia.
+
+In addition, the existence of the creative field of bio-art is a particular trigger for my interest in DIY bioculture.
+Some Art has always opened up new visions for us to see and think.
+While "bio" has been a particularly hot topic in the past few decades, the expression of "life" has remained an important topic for art for a long time.
+It is also connected to new methods of design and expression, such as speculative design and artistic research.
 
 
 
