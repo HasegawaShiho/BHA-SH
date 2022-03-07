@@ -19,7 +19,7 @@ ___
 ## Weekly Activities
 
 ### Week 01
-* [Thinking about ...What is Life? What is hacking? Why are you interested in Bio?](https://github.com/HasegawaShiho/BHA-SH/blob/eb198a604d835a36572d35112b4a412b39313591/w01-thinking.md)
+* [Thinking about ...What is Life? What is hacking? Why are you interested in Bio?](https://github.com/HasegawaShiho/BHA-SH/w01-thinking)
 
 ### Week 02
 ### Week 03
