@@ -1,5 +1,6 @@
 **This is a documentation page in BHA2022 by Shiho Hasegawa.**
-![fig_plant](https://user-images.githubusercontent.com/100834944/156967836-7d9bc4d2-0a9d-4104-b617-e81e86ad884f.jpg)
+![fig_plant](https://user-images.githubusercontent.com/100834944/156968269-a89a2f5a-8c03-4e4e-acb0-872abac02532.jpg)
+
 ___
 
 ## About me
