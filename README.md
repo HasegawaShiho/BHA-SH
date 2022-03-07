@@ -1,9 +1,8 @@
 # BHA-S　
 
 **This is SH My page in Bio Hack Academy 2022.**
+[**About me**]()
 
-## About
-test test test
 
 ## Weeks
 1. W#01
