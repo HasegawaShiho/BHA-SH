@@ -1,13 +1,13 @@
 **This is SH My page in Bio Hack Academy 2022.**
 
 
-# [About me]()
+## [About me]()
 
 
 ## Weeks
 ### Week 01
-- [Introduction]()
-- [Thinking about ...]()
+* [Introduction]()
+* [Thinking about ...]()
 ### Week 02
 ### Week 03
 ### Week 04
