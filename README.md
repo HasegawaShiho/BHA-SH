@@ -1,7 +1,11 @@
 **This is a documentation page in BHA2022 by Shiho Hasegawa.**
-![fig_plant](https://user-images.githubusercontent.com/100834944/156968269-a89a2f5a-8c03-4e4e-acb0-872abac02532.jpg)
 
 ___
+
+
+![fig_plant](https://user-images.githubusercontent.com/100834944/156968269-a89a2f5a-8c03-4e4e-acb0-872abac02532.jpg)
+
+
 
 ## About me
 I specialize in modern and contemporary art theory (art history, design studies). I am particularly interested in the intersection of post-modern artistic expression and technology/natural science, from the perspectives of visual culture (film, video), media art, and Bio-art / Bio-design. The completed doctoral programme at the Graduate School of Cultural Sciences, Saitama University without a degree. Since 2018, working at the Keio Museum Commons (KeMCo), which is a Japanese university museum.
