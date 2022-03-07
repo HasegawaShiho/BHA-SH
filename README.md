@@ -6,14 +6,14 @@
 
 ## Weeks
 ### Week 01
-    - [Introduction]()
-    - [Thinking about ...]()
-2. **Week 02**
-3. **Week 03**
-4. **Week 04**
-5. **Week 05**
-6. **Week 06**
-7. **Week 07**
-8. **Week 08**
-9. **Week 09**
-10. **Week 10**
+- [Introduction]()
+- [Thinking about ...]()
+### Week 02
+### Week 03
+### Week 04
+### Week 05
+### Week 06
+### Week 07
+### Week 08
+### Week 09
+### Week 10
