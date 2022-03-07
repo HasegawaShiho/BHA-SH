@@ -21,6 +21,7 @@ ___
 ### Week 01
 **Thinking about ...**
 * **What is Life? How would you define it, can you actually define it?**
+
 What is "life?" Through discussions with members on last Thursday, several important elements were identified.
 Autopoiesis, variability, mutation, propagation, membranes, metabolism, autonomous movement (external and internal)...
 
@@ -37,6 +38,7 @@ At this stage, we have a certain definition of "life," but this definition may b
 In the future, there may be a difference between the biological definition and the cultural and social definition.
 
 * **What is BioHacking? What does it mean for you?**
+
 
 
 * **Why are you interested in Bio?**
