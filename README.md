@@ -1,8 +1,9 @@
-**This is [Shiho Hasegawa]() My page in Bio Hack Academy 2022.**
-
+**This is a documentation page in BHA2022 by [Shiho Hasegawa]().**
+***
 
 
 ## Weeks
+
 ### Week 01
 * [About me]()
 * [Thinking about ...]()
