@@ -1,12 +1,10 @@
-**This is SH My page in Bio Hack Academy 2022.**
+**This is [Shiho Hasegawa]() My page in Bio Hack Academy 2022.**
 
-
-## [About me]()
 
 
 ## Weeks
 ### Week 01
-* [Introduction]()
+* [About me]()
 * [Thinking about ...]()
 ### Week 02
 ### Week 03
