@@ -7,10 +7,8 @@ test test test
 
 ## Weeks
 1. W#01
-  1. [Introduction]()
-  2. What is "Life"?
-  3. What is "hacking"?
-  4. Why do you interested in "Bio"?
+  1. [Introduction]()1_1
+  1. Thinking about ...1_2
 2. W#02
 3. W#03
 4. W#04
