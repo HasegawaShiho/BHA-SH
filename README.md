@@ -7,8 +7,8 @@ test test test
 
 ## Weeks
 1. W#01
-  1. [Introduction]()1_1
-  1. Thinking about ...1_2
+    - [Introduction]()
+    - [Thinking about ...?]()
 2. W#02
 3. W#03
 4. W#04
