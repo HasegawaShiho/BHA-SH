@@ -11,7 +11,7 @@ ___
 
 ___
 
-##[About](about/) 
+## [About](about/)
 
 
 ## Weekly Activities
