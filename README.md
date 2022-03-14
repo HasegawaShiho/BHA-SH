@@ -1,8 +1,5 @@
 **This is a documentation page in BHA2022 by Shiho Hasegawa.**
 
-
-[About](about/) 
-
 ___
 
 
@@ -13,6 +10,8 @@ ___
 
 
 ___
+
+##[About](about/) 
 
 
 ## Weekly Activities
