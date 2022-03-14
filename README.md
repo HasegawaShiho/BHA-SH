@@ -14,9 +14,9 @@ ___
 ## [About](about/)
 
 
-## [Weekly Activities](weeklyactivities/)
+## Weekly Activities
 
-### Week 01
+### [Week 01](week01/)
 ### Week 02
 ### Week 03
 ### Week 04
