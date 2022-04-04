@@ -1,9 +1,13 @@
-### Week 02
-#### What I do ...
-* ** Assemble Portable Microscope
+### Week 02: Making Hardwares
+#### Workshop...
+* ** Assemble a Portable Microscope
 
 1. ****
 2. ****
 3. ****
 
-* ** Compare with
+* ** Assemble a Pocket PCR
+
+1.
+2.
+3.
