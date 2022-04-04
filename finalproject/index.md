@@ -27,13 +27,13 @@ like Thomatrope...
 ###### First Thaumatrope by William Henry Fitton (Cited: A. Castillon, *Recreations Physiques*, Paris: Hachette, 1863, 284)
 
 
-- **Relationship between human-microbiome**
-Overlapping and Comparing with some scales; time and size (?)
-Create moving Image?
+- **Relationship between human-microbiome**  
+Overlapping and Comparing with some scales; time and size (?)  
+Create moving Image?  
 ![fig_idea01](https://user-images.githubusercontent.com/100834944/161602290-66e9f515-9b48-4570-a85f-a5b22f4ce5f1.png)
 
-* **Accumulation of the “sphere” of petri-dish image**
-Printing on tracing papers? or laser cutting acrylic plates.
+* **Accumulation of the “sphere” of petri-dish image**  
+Printing on tracing papers? or laser cutting acrylic plates.  
 ![fig_idea02](https://user-images.githubusercontent.com/100834944/161602449-a5c094d0-41ac-4648-ab9f-0d86f7b47547.jpg)
 
 
