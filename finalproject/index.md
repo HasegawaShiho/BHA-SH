@@ -25,7 +25,7 @@ How to Think “-sphere(圏)" on Bioart: Through a Visual Experiments
 like Thomatrope...
 ![fig_thomatrope](https://user-images.githubusercontent.com/100834944/161601645-d5c3f156-054b-4695-bde0-6e6bf4fc6d82.png)
 ###### First Thaumatrope by William Henry Fitton
-###### Cited: A. Castillon, Recreations Physiques, Paris: Hachette, 1863, 284
+###### Cited: A. Castillon, *Recreations Physiques*, Paris: Hachette, 1863, 284
 
 
 - **Relationship between human-microbiome**
