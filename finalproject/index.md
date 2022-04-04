@@ -6,7 +6,8 @@ How to Think “-sphere(圏)" on Bioart: Through a Visual Experiments
 
 ### Can we think about (particular) type of Bioart as matter of “-sphere(圏)”?
 バイオアートの（特定の）タイプを「-sphere(圏)」の問題として考えることは可能でしょうか？
-	ex.)
+
+  ex.)
 	biosphere（生物圏） ecosphere（生態圏）
 	blastosphere（胞胚)  oosphere（配偶子）
 	hydrosphere（水圏） lithosphere（岩石圏）
@@ -24,13 +25,13 @@ How to Think “-sphere(圏)" on Bioart: Through a Visual Experiments
 like Thomatrope...
 ![fig_thomatrope](https://user-images.githubusercontent.com/100834944/161601645-d5c3f156-054b-4695-bde0-6e6bf4fc6d82.png)
 
-* **Relationship between human-microbiome
-- Overlapping and Comparing with some scales; time and size (?)
-- Create moving Image?
+- **Relationship between human-microbiome**
+Overlapping and Comparing with some scales; time and size (?)
+Create moving Image?
 ![fig_idea01](https://user-images.githubusercontent.com/100834944/161602290-66e9f515-9b48-4570-a85f-a5b22f4ce5f1.png)
 
-* **Accumulation of the “sphere” of petri-dish image
-- Printing on tracing papers? or laser cutting acrylic plates.
+* **Accumulation of the “sphere” of petri-dish image**
+Printing on tracing papers? or laser cutting acrylic plates.
 ![fig_idea02](https://user-images.githubusercontent.com/100834944/161602449-a5c094d0-41ac-4648-ab9f-0d86f7b47547.jpg)
 
 
