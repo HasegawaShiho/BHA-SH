@@ -37,4 +37,23 @@ Printing on tracing papers? or laser cutting acrylic plates.
 ![fig_idea02](https://user-images.githubusercontent.com/100834944/161602449-a5c094d0-41ac-4648-ab9f-0d86f7b47547.jpg)
 
 
+### Making Bio-Thaumatrope...？
+- **Making a normal Thaumatrope**  
+https://user-images.githubusercontent.com/100834944/166209183-df362646-91d9-4ceb-bda7-59e5635ebb9d.mp4
+
+  - **Problem;**
+  Weight problem;  normal 1 petri-dish w/ medium=ca.30g
+  Petri-dish thickness
+
+  - **Task;**
+  Making the Double-side petri-dish.
+  Consider how to lighter weight.
+  Ways to support the Petri dish.
+  Think of a rotating mechanism.
+  Try to Yeastogram
+
+
+- ****
+
+
 in construction...
