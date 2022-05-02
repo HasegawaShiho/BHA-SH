@@ -55,10 +55,21 @@ https://user-images.githubusercontent.com/100834944/166209183-df362646-91d9-4ceb
 
 - **Prototyping 01:**
 Attach the two petridishes together.
+![stand](https://user-images.githubusercontent.com/100834944/166215374-033d6394-abd9-44e2-be55-6f9dff8ec0eb.jpg)
+
+movie 01
+https://user-images.githubusercontent.com/100834944/166215926-8239cc07-ef1b-4b0e-8666-7acff2c69df6.mp4
+
+movie 02
+https://user-images.githubusercontent.com/100834944/166215993-0a595f8f-5204-476b-8f32-761e07e487a9.mp4
 
 
 - **Prototyping 02:**
 DIY Petridish made with a laser cutter.
+![IMG_9950](https://user-images.githubusercontent.com/100834944/166215478-a17fd4ce-d95b-4b91-ab0b-da5d9257a5d1.jpg)
 
+![double petridish](https://user-images.githubusercontent.com/100834944/166215731-ed745937-6100-42b0-87a4-55ffefc6c15d.jpg)
+
+![proto-petri](https://user-images.githubusercontent.com/100834944/166215788-b8d603cf-3669-422f-a420-d265e7a783cf.jpg)
 
 in construction...
