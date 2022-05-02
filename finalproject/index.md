@@ -39,7 +39,7 @@ Printing on tracing papers? or laser cutting acrylic plates.
 
 ### Making Bio-Thaumatrope...？
 - **Making a normal Thaumatrope**
-https://user-images.githubusercontent.com/100834944/166213703-ad6ac65f-1c08-4b04-a103-b0973cacfebb.mp4
+https://user-images.githubusercontent.com/100834944/166214076-ad648c5a-5a7a-4441-b4b7-a558570bae53.mp4
 
   - **Problem;**
   Weight problem;  normal 1 petri-dish w/ medium=ca.30g
@@ -54,8 +54,7 @@ https://user-images.githubusercontent.com/100834944/166213703-ad6ac65f-1c08-4b04
 
 
 - **Prototyping:**
-![fig_](
-
+plan ![fig_](
 https://user-images.githubusercontent.com/100834944/166213821-ab7d6bf0-3bb9-489a-a835-1701e94a9982.mp4
 
 
